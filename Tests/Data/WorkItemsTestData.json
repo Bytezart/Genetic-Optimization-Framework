@@ -1,0 +1,97 @@
+﻿{
+  "WorkItemsTestDataCollection": [
+    [
+      {
+        "UniqueId": 0,
+        "TaskName": "Code Review",
+        "TimeEstHours": 4,
+        "Value": 3,
+        "Effort": 9
+      },
+      {
+        "UniqueId": 1,
+        "TaskName": "Painting",
+        "TimeEstHours": 4,
+        "Value": 2,
+        "Effort": 8
+      },
+      {
+        "UniqueId": 2,
+        "TaskName": "Pay Bills / Finance Review",
+        "TimeEstHours": 2,
+        "Value": 8,
+        "Effort": 8
+      },
+      {
+        "UniqueId": 3,
+        "TaskName": "Wash Car",
+        "TimeEstHours": 1,
+        "Value": 2,
+        "Effort": 2
+      },
+      {
+        "UniqueId": 4,
+        "TaskName": "Plumbing Repair",
+        "TimeEstHours": 3,
+        "Value": 10,
+        "Effort": 6
+      },
+      {
+        "UniqueId": 5,
+        "TaskName": "Tax Preparation",
+        "TimeEstHours": 4,
+        "Value": 2,
+        "Effort": 9
+      },
+      {
+        "UniqueId": 6,
+        "TaskName": "Reading and Study",
+        "TimeEstHours": 2,
+        "Value": 10,
+        "Effort": 1
+      },
+      {
+        "UniqueId": 7,
+        "TaskName": "Language Learning",
+        "TimeEstHours": 1,
+        "Value": 2,
+        "Effort": 10
+      },
+      {
+        "UniqueId": 8,
+        "TaskName": "Write Code",
+        "TimeEstHours": 3,
+        "Value": 8,
+        "Effort": 9
+      },
+      {
+        "UniqueId": 9,
+        "TaskName": "Entertainment",
+        "TimeEstHours": 1,
+        "Value": 1,
+        "Effort": 1
+      },
+      {
+        "UniqueId": 10,
+        "TaskName": "Yard Work",
+        "TimeEstHours": 2,
+        "Value": 2,
+        "Effort": 4
+      },
+      {
+        "UniqueId": 11,
+        "TaskName": "Grocery Shopping",
+        "TimeEstHours": 2,
+        "Value": 5,
+        "Effort": 3
+      },
+      {
+        "UniqueId": 11,
+        "TaskName": "Laundry",
+        "TimeEstHours": 2,
+        "Value": 7,
+        "Effort": 3
+      }
+    ]
+  ]
+}
