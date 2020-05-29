@@ -4,9 +4,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9AA9CFFE-DBCF-4683-8CF3-E8AD92686B19}"
 	ProjectSection(SolutionItems) = preProject
 		LICENSE.txt = LICENSE.txt
+		THIRD-PARTY-LICENSES.txt = THIRD-PARTY-LICENSES.txt
+		README.md = README.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimazation", "Optimazation\Optimazation.csproj", "{7B28BF61-7828-445D-B797-C848D9E616A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{03947146-96F2-4B20-B872-87DAAD6F159E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,9 +22,16 @@ Global
 		{7B28BF61-7828-445D-B797-C848D9E616A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7B28BF61-7828-445D-B797-C848D9E616A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7B28BF61-7828-445D-B797-C848D9E616A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03947146-96F2-4B20-B872-87DAAD6F159E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03947146-96F2-4B20-B872-87DAAD6F159E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03947146-96F2-4B20-B872-87DAAD6F159E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03947146-96F2-4B20-B872-87DAAD6F159E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0
 		$0.VersionControlPolicy = $1
+		$0.DotNetNamingPolicy = $2
+		$2.DirectoryNamespaceAssociation = PrefixedHierarchical
+		version = 2.3
 	EndGlobalSection
 EndGlobal
