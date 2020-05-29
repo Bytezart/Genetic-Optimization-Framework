@@ -8,9 +8,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		LICENSE = LICENSE
 	EndProjectSection
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimazation", "Optimazation\Optimazation.csproj", "{EAF9D633-039D-4397-8B0E-E1CBC6968F42}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{336C5CF9-54BF-49A8-BC41-E9A42E5D11BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Optimization", "Optimization\Optimization.csproj", "{05D6709C-8CA6-4AEC-9C98-BB4753D9709B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,14 +18,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{EAF9D633-039D-4397-8B0E-E1CBC6968F42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EAF9D633-039D-4397-8B0E-E1CBC6968F42}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EAF9D633-039D-4397-8B0E-E1CBC6968F42}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EAF9D633-039D-4397-8B0E-E1CBC6968F42}.Release|Any CPU.Build.0 = Release|Any CPU
 		{336C5CF9-54BF-49A8-BC41-E9A42E5D11BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{336C5CF9-54BF-49A8-BC41-E9A42E5D11BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{336C5CF9-54BF-49A8-BC41-E9A42E5D11BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{336C5CF9-54BF-49A8-BC41-E9A42E5D11BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05D6709C-8CA6-4AEC-9C98-BB4753D9709B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05D6709C-8CA6-4AEC-9C98-BB4753D9709B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05D6709C-8CA6-4AEC-9C98-BB4753D9709B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05D6709C-8CA6-4AEC-9C98-BB4753D9709B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0

@@ -37,6 +37,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Optimazation\Optimazation.csproj" />
+    <ProjectReference Include="..\Optimization\Optimization.csproj" />
   </ItemGroup>
 </Project>

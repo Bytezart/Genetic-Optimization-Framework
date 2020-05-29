@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using ConsoleTables;
-using Optimazation;
+using Optimization;
 using Tests.Helpers;
 using Tests.Models;
 using Xunit;
