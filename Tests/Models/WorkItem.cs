@@ -1,8 +1,8 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
-using Optimization;
+using GeneticOptimizationFramework.Optimization;
 
-namespace Tests.Models
+namespace GeneticOptimizationFramework.Tests.Models
 {
     public class WorkItem: IOptimizationItem
     {

@@ -5,6 +5,7 @@
 
     <IsPackable>false</IsPackable>
     <ReleaseVersion>2.3</ReleaseVersion>
+    <RootNamespace>GeneticOptimizationFramework.Tests</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

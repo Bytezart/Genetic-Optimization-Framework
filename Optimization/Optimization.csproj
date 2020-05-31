@@ -3,6 +3,18 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <ReleaseVersion>2.3</ReleaseVersion>
+    <Copyright>Copyright © 2020</Copyright>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <Owners>Christopher R. Felpel</Owners>
+    <Title>Genetic Optimization Framework</Title>
+    <PackageId>GeneticOptimizationFramework.Optimization</PackageId>
+    <PackageVersion>2.3</PackageVersion>
+    <Authors>Christopher Felpel</Authors>
+    <PackageProjectUrl>https://github.com/Bytezart/Genetic-Optimization-Framework</PackageProjectUrl>
+    <PackageReleaseNotes>Initial NuGet release package which contains genetic and randomization functions for optimizing List&lt;T&gt; data.</PackageReleaseNotes>
+    <Summary>This library implements a set of optimization techniques for data lists known as “Stochastic Optimization” which can be leveraged to solve simple to complex optimization problems. </Summary>
+    <Description>A simple to use Genetic Algorithmic (GA) framework for finding solutions to optimization problems using metaheuristics in data lists.</Description>
+    <RootNamespace>GeneticOptimizationFramework.Optimization</RootNamespace>
   </PropertyGroup>
 
 </Project>

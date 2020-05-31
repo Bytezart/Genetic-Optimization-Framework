@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Optimization
+namespace GeneticOptimizationFramework.Optimization
 {
     public interface IOptimizationItem: ICloneable
     {

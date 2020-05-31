@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
 
-namespace Optimization
+namespace GeneticOptimizationFramework.Optimization
 {
     public static class Optimize<T> where T: IOptimizationItem
     {

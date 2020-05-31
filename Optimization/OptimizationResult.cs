@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace Optimization
+namespace GeneticOptimizationFramework.Optimization
 {
     public class OptimizationResult<T>
     {

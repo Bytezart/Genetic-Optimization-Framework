@@ -3,12 +3,12 @@ using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using ConsoleTables;
-using Optimization;
-using Tests.Helpers;
-using Tests.Models;
+using GeneticOptimizationFramework.Optimization;
+using GeneticOptimizationFramework.Tests.Helpers;
+using GeneticOptimizationFramework.Tests.Models;
 using Xunit;
 
-namespace Tests
+namespace GeneticOptimizationFramework.Tests
 {
     public class OptimizeTests
     {
