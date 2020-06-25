@@ -1,4 +1,6 @@
-﻿# Genetic Optimization Framework for .Net Core
+﻿![GitHub Workflow Status](https://img.shields.io/github/workflow/status/bytezart/Genetic-Optimization-Framework/Build?style=for-the-badge)
+ 
+ # Genetic Optimization Framework for .Net Core
 
 This framework implements a set of optimization techniques known as “Stochastic Optimization” which can be leveraged to solve simple to complex optimization problems. The optimization techniques implemented within this library are typically used to generate an optimal solution for problems that have many different possible outcomes. These techniques have a wide verity of applications such as finding the best arbitrage opportunities in Forex Markets to deciding how best to pack pallets with boxes of differentiating sizes and weights.
 
